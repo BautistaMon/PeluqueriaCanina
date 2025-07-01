@@ -26,14 +26,14 @@ public class Principal extends javax.swing.JFrame {
             }
         });
 
-        jPanel1.setBackground(new java.awt.Color(0, 102, 102));
+        jPanel1.setBackground(new java.awt.Color(0, 51, 51));
 
         jLabel1.setBackground(new java.awt.Color(204, 204, 204));
         jLabel1.setFont(new java.awt.Font("NSimSun", 0, 48)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(102, 255, 255));
         jLabel1.setText("Peluquería Canina ");
 
-        jPanel2.setBackground(new java.awt.Color(0, 102, 102));
+        jPanel2.setBackground(new java.awt.Color(0, 51, 51));
 
         btnVerDatos.setBackground(new java.awt.Color(0, 51, 51));
         btnVerDatos.setFont(new java.awt.Font("sansserif", 0, 18)); // NOI18N
